@@ -1,0 +1,98 @@
+
+Software Requirements and Design Document
+for
+PROJECT NAME
+Prepared by 
+SCOPE
+DATE
+
+Table of Contents
+Table of Contents	ii
+1.	Introduction	1
+1.1	Purpose	1
+1.2	Product Scope	1
+1.3	Title	1
+1.4	Objectives	1
+1.5	Problem Statement	1
+2.	Overall Description	1
+2.1	Product Perspective	1
+2.2	Product Functions	2
+2.3	List of Use Cases	2
+2.4	Extended Use Cases	2
+2.5	Use Case Diagram	2
+3.	Other Nonfunctional Requirements	2
+3.1	Performance Requirements	2
+3.2	Safety Requirements	2
+3.3	Security Requirements	2
+3.4	Software Quality Attributes	2
+3.5	Business Rules	3
+3.6	Operating Environment	3
+3.7	User Interfaces	3
+4.	Domain Model	3
+5.	System Sequence Diagram	3
+6.	Sequence Diagram	3
+7.	Class Diagram	4
+8.	Package Diagram	4
+9.	Deployment Diagram	4
+
+
+? Introduction
+? Purpose 
+<Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.>
+
+? Product Scope
+<Provide a short description of the software being specified and its purpose, including relevant benefits, objectives, and goals. Relate the software to corporate goals or business strategies. If a separate vision and scope document is available, refer to it rather than duplicating its contents here.>
+
+? Title :
+<Should be well defined Indicate the project aim and immediate solution it’s going to provide.>
+
+
+? Objectives
+<Outline the major aims/goals that are aimed to be achieved through the project>
+
+? Problem Statement
+<Explain the major reason for choosing the project and the problem addressed by the project. Describe the problem in detail (e.g. office automation mitigates manual work etc.) Should not be more than 2-3 paragraphs. You can also explain Feasibility.>
+
+? Overall Description
+? Product Perspective
+<Describe the context and origin of the project being specified in this SRS. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the SRS defines a component of a larger system, relate the requirements of the larger system to the functionality of this software and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful.>
+? Product Functions
+<Summarize the major functions the project must perform or must let the user perform. Details will be provided in Section 3, so only a high-level summary (such as a bullet list) is needed here. Organize the functions to make them understandable to any reader of the SRS. A picture of the major groups of related requirements and how they relate, such as a top-level data flow diagram or object class diagram, is often effective.>
+? List of Use Cases
+? Extended Use Cases
+? Use Case Diagram
+? Other Nonfunctional Requirements
+? Performance Requirements
+<If there are performance requirements for the project under various circumstances, state them here and explain their rationale, to help the developers understand the intent and make suitable design choices. Specify the timing relationships for real time systems. Make such requirements as specific as possible. You may need to state performance requirements for individual functional requirements or features.>
+? Safety Requirements
+<Specify those requirements that are concerned with possible loss, damage, or harm that could result from the use of the product. Define any safeguards or actions that must be taken, as well as actions that must be prevented. Refer to any external policies or regulations that state safety issues that affect the product’s design or use. Define any safety certifications that must be satisfied.>
+? Security Requirements
+<Specify any requirements regarding security or privacy issues surrounding use of the product or protection of the data used or created by the product. Define any user identity authentication requirements. Refer to any external policies or regulations containing security issues that affect the product. Define any security or privacy certifications that must be satisfied.>
+? Software Quality Attributes
+<Specify any additional quality characteristics for the product that will be important to either the customers or the developers. Some to consider are: adaptability, availability, correctness, flexibility, interoperability, maintainability, portability, reliability, reusability, robustness, testability, and usability. Write these to be specific, quantitative, and verifiable when possible. At the least, clarify the relative preferences for various attributes, such as ease of use over ease of learning.>
+? Business Rules
+<List any operating principles about the product, such as which individuals or roles can perform which functions under specific circumstances. These are not functional requirements in themselves, but they may imply certain functional requirements to enforce the rules.>
+
+? Operating Environment
+<Describe the environment in which the software will operate, including the hardware platform, operating system and versions, and any other software components or applications with which it must peacefully coexist.>
+
+? User Interfaces
+<Describe the logical characteristics of each interface between the software product and the users. This may include sample screen images, any GUI standards or product family style guides that are to be followed, screen layout constraints, standard buttons and functions (e.g., help) that will appear on every screen, keyboard shortcuts, error message display standards, and so on. Define the software components for which a user interface is needed. Details of the user interface design should be documented in a separate user interface specification.>
+
+? Domain Model
+? System Sequence Diagram
+? Sequence Diagram
+
+? Class Diagram
+
+
+
+
+
+
+Software Requirements Specification for <Project>		Page 2
+
+
+
+Software Requirements Specification for <Project>		Page 
+
